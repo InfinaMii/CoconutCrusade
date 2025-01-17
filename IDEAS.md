@@ -1,10 +1,10 @@
 # Ideas:
 
-- make the outdoor plaza an actual plaza area ([reference]https://discord.com/channels/958107162972921906/1299510746882773084/1299528450033586237)
-- exterior similar to concept art ([reference]https://discord.com/channels/958107162972921906/1299510746882773084/1302768379836239975)
+- make the outdoor plaza an actual plaza area ([reference](https://discord.com/channels/958107162972921906/1299510746882773084/1299528450033586237))
+- exterior similar to concept art (([reference]https://discord.com/channels/958107162972921906/1299510746882773084/1302768379836239975))
 - ceiling changed ?
 - glass road on top section at the end
-- add a cinema & cinema snack counter ([reference]https://discord.com/channels/958107162972921906/1299510746882773084/1299531938415120466)
+- add a cinema & cinema snack counter (([reference]https://discord.com/channels/958107162972921906/1299510746882773084/1299531938415120466))
 - add back the floor under the fountain
 - add back the spinning ball and its original glass roof
 - replace vending machines with SBS's (or any other base game asset that works)
@@ -32,7 +32,7 @@
 - Coco souvenir
 - dream gliders
 - other brands from the base-game
-- add screened signs referencing other tracks ([reference]https://discord.com/channels/958107162972921906/1299510746882773084/1311421767738331167)
+- add screened signs referencing other tracks (([reference]https://discord.com/channels/958107162972921906/1299510746882773084/1311421767738331167))
 
 ## Cinema Posters: 
 - Coconut crusaders
